@@ -1,4 +1,4 @@
-<head>	<meta charset="UTF-8">	<title>IPL MEGA CONTEST</title>	<link rel="stylesheet" href="hw2.css"></head> <body>	<header>		<h1>IPL2020 MEGA CONTEST</h1>		<nav>			<a href="https://forms.gle/mczXrjHcqdau1axeA">Dream Team</a>			<a href="https://forms.gle/6smHzV1oLd6g9uyLA">Player Battles</a>			<a href="https://forms.gle/iNTuaGbmmnDQzx57A">Picks</a>			<a href="orangecap.html" target="_blank">Orange cap</a>
+<head>	<meta charset="UTF-8">	<title>Assignments</title>	<link rel="stylesheet" href="hw2.css"></head> <body>	<header>		<h1>Assignment </h1>		<nav>			<!--<a href="https://forms.gle/mczXrjHcqdau1axeA">Dream Team</a>			<a href="https://forms.gle/6smHzV1oLd6g9uyLA">Player Battles</a>			<a href="https://forms.gle/iNTuaGbmmnDQzx57A">Picks</a>			<a href="orangecap.html" target="_blank">Orange cap</a>
 	<a href="purplecap.html" target="_blank">purple cap</a>
 	<a href="wallet.html" target="_blank">wallet balance</a>
 </nav>	</header>		<main><!--marquee>all matches on Sunday are cancelled</marquee-->	<marquee><a href="match2.html">MI VS DC picks winner:Hema & Achuyth(56pts); player battles winner : achuyth(473pts)</a> </marquee> <marquee><a href="results.html">MI VS DC Match winner:Achuyth(466.5pts)</a></marquee>	
@@ -7,7 +7,7 @@
  	<!--center><h2>Live Score</h2></center>
 <iframe src="https://www.iplt20.com/match/2020/60" height="500" title="W3Schools Free Online Web Tutorials"></iframe-->
  
-  <h2><img src="logo.png" alt="points" background-color="yellow" height="50" width="50"/>Managed by harsh securities</h2><body style="background-color:yellow;">
+  <h2><img src="logo.png" alt="points" background-color="yellow" height="50" width="50"/>Managed by harsh securities</h2><body style="background-color:yellow;">-->
 
  <!--This is comment-->
 
